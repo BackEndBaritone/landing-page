@@ -26,7 +26,7 @@ a {
 }
 
 nav .header {
-    font-family: "roboto", serif;
+    font-family: "roboto", sans-serif;
     align-items: center;
     font-size: 18px;
     display: flex;
@@ -47,6 +47,7 @@ nav .header {
     display: flex;
     flex-direction: column;
     gap: 8px;
+    font-family: "roboto", sans-serif;
 }
 
 .hero-main {
@@ -68,6 +69,7 @@ nav .header {
     justify-content: center;
     padding: 20px;
     background-color: #D2BBA0;
+    font-family: "roboto", sans-serif;
 }
 
 button {
