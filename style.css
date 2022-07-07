@@ -12,7 +12,7 @@ ul {
 }
 
 a {
-    font-size: 18px;;
+    font-size: 18px;
 }
 
 /* CSS for section one */
@@ -25,7 +25,7 @@ a {
     gap: 80px;
 }
 
-.header {
+nav .header {
     font-family: "roboto", serif;
     align-items: center;
     font-size: 18px;
@@ -76,7 +76,7 @@ button {
     font-size: 18px;
     width: 120px;
     border: none;
-    border-radius: 4px;
+    border-radius: 8px;
     font-weight: 900;
     padding: 6px 10px;
 }
