@@ -89,6 +89,7 @@ button {
 .section-two {
     display: flex;
     flex-direction: column;
+    padding-bottom: 60px;
 }
 
 .section-two .header {
@@ -122,5 +123,34 @@ button {
     height: 100px;
     border: thick solid #F79AD3;
     border-radius: 8px;
+}
+
+/* CSS for section three */
+.section-three {
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background-color: #F9F5F1;
+}
+
+.testimony {
+    width: 750px;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote {
+    font-family: "roboto", sans-serif;
+    color: #9F7E69;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.credit {
+    align-self: flex-end;
+    font-size: 24px;
+    color: #9F7E69;
+    font-weight: 900;
 }
 
