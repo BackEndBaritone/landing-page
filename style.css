@@ -80,3 +80,20 @@ button {
     font-weight: 900;
     padding: 6px 10px;
 }
+
+/* CSS for section two */
+.section-two {
+    display: flex;
+    flex-direction: column;
+}
+
+.section-two .header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    font-size: 36px;
+    font-family: "roboto", sans-serif;
+    color: #9F7E69;
+    font-weight: 900;
+}
