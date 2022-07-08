@@ -74,7 +74,7 @@ nav .header {
     font-family: "roboto", sans-serif;
 }
 
-button {
+.card button {
     color: #F7FFE0;
     background-color: #F79AD3;
     font-size: 18px;
@@ -154,3 +154,37 @@ button {
     font-weight: 900;
 }
 
+/* CSS for section four */
+.section-four {
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
+
+.sign-up {
+    display: flex;
+    background-color: #F79AD3;
+    padding: 40px 90px;
+    align-items: center;
+    font-size: 24px;
+    gap: 110px;
+    color: white;
+}
+
+.action-sub {
+    color: white;
+    font-family: "roboto", sans-serif;
+    font-size: 18px;
+}
+
+.sign-up button {
+    align-self: center;
+    font-size: 18px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 6px;
+    padding: 8px 20px;
+    background-color: #F79AD3;
+    border-color: white;
+    color: rgba(255, 255, 255, 0.915);
+}
