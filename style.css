@@ -188,3 +188,12 @@ nav .header {
     border-color: white;
     color: rgba(255, 255, 255, 0.915);
 }
+
+footer {
+    padding: 20px;
+    text-align: center;
+    background-color: #9F7E69;
+    color: #F7FFE0;
+    font-family: "roboto", sans-serif;
+    font-size: 18px;
+}
