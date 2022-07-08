@@ -1,0 +1,1 @@
+This landing page project served as an opportunity to reinforce my flexbox and other HTML and CSS  fundamentals
